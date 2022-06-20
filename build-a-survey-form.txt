@@ -1,0 +1,36 @@
+** start of undefined **
+
+<h1 id="title">My favorite fruits</h1>
+  <p id="description">-orange 
+    -grape -banana -peach -plum - cocomelon </p>
+    <form id="survey-form">
+      <textarea id="w3review" name="w3review" rows="4" cols="50">
+At w3schools.com you will learn how to make a website. 
+</textarea>
+<button id="submit" type="submit"</button>
+      <input type="checkbox" id="orange fruits" name="orange fruits" value="sour fruits">
+      <input type="checkbox" value="sweet fruits">
+<input required placeholder="123-45" id="name" type="text">
+      <label for="name" id="name">Name</label>
+      <input required placeholder="tastyfruits@minsk1.com" id="email" type="email">
+      <input id="number" placeholder="5" type="number" min="0" max="10">
+      <label id="name-label">Sweet fruit</label>
+        <label id="email-label">tastyfruits@spop43.com</label> 
+          <label id="number-label">8908765</label>
+          <select id="dropdown"</select>
+          <option value="1" id="1">First</option>
+          <option value="2" id="2">Second</option>
+          <input type="radio" id="blue" name="Grape" value="blue">
+          <input type="radio" id="green" name="Grape" value="green">
+
+
+
+
+** end of undefined **
+
+** start of undefined **
+
+
+
+** end of undefined **
+
